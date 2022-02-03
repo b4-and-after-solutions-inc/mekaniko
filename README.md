@@ -1,2 +1,1 @@
-# mekaniko
- 
+# lteci
